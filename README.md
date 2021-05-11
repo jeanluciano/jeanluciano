@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jeanluciano/jeanluciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to My Github!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🔭 I’m currently working on https://a.humanrightsfirst.dev/
+    🌱 Currently learning OWASP TOP 10 and 🦀Rust Lang
+    📫 Lets chat:https://www.linkedin.com/in/jean-luciano/
+    
+## Goals for 2021
+ *Find my first bounty
+ *Make solid open-source contributions
+ *Bike More
+
+Please check out the work I've done with the organizations I belong to in the left lower icons section.
+
+I look forward to working with you or hearing from you!

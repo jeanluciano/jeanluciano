@@ -9,9 +9,9 @@ Welcome to My Github!
     📫 Lets chat:https://www.linkedin.com/in/jean-luciano/
     
 ## Goals for 2021
- *Find my first bounty
- *Make solid open-source contributions
- *Bike More
+ * Find my first bounty
+ * Make solid open-source contributions
+ * Bike More
 
 Please check out the work I've done with the organizations I belong to in the left lower icons section.
 

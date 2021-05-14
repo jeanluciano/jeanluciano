@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Jean Luciano 👋
 
-Hi there 👋
+
 
 Welcome to My Github!
-
+    
     🔭 I’m currently working on https://a.humanrightsfirst.dev/
     🌱 Currently learning OWASP TOP 10 and 🦀Rust Lang
     📫 Lets chat:https://www.linkedin.com/in/jean-luciano/
